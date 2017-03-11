@@ -1,3 +1,4 @@
+﻿Hello world
 ====================
 Django Debug Toolbar
 ====================
