@@ -1,5 +1,6 @@
 ﻿Hello world
 blah blah
+test 2
 ====================
 Django Debug Toolbar
 ====================
